@@ -4,5 +4,6 @@
     <string name="app_name">EscapeFromCrisis</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="activity_main_title">Select What You Need!</string>
+	<string name="activity_main_empty"></string>
 </resources>
